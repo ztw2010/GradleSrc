@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ComAssemblys.iml" filepath="$PROJECT_DIR$/ComAssemblys.iml" />
-      <module fileurl="file://$PROJECT_DIR$/annomationcompilelib/annomationcompilelib.iml" filepath="$PROJECT_DIR$/annomationcompilelib/annomationcompilelib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/annomationlib/annomationlib.iml" filepath="$PROJECT_DIR$/annomationlib/annomationlib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/gradle-src/gradle-src.iml" filepath="$PROJECT_DIR$/gradle-src/gradle-src.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComAssemblys.iml" filepath="$PROJECT_DIR$/.idea/modules/ComAssemblys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annomationcompilelib/annomationcompilelib.iml" filepath="$PROJECT_DIR$/.idea/modules/annomationcompilelib/annomationcompilelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/annomationlib/annomationlib.iml" filepath="$PROJECT_DIR$/.idea/modules/annomationlib/annomationlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-src/gradle-src.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-src/gradle-src.iml" />
     </modules>
   </component>
 </project>

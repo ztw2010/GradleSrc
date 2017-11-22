@@ -10,7 +10,6 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/annomationcompilelib" />
             <option value="$PROJECT_DIR$/annomationlib" />
-            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/gradle-src" />
           </set>
         </option>
