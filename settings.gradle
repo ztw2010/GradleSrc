@@ -1,1 +1,1 @@
-include ':app', ':annomationlib', ':gradle-src', ':annomationcompilelib'
+include ':annomationlib', ':gradle-src', ':annomationcompilelib'
