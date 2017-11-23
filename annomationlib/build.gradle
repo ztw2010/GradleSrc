@@ -22,7 +22,7 @@ uploadArchives {
         }
         // 以com.android.support:appcompat-v7:25.1.0为对比com.ebest.annotation:routeparam-annotation:0.0.1
         pom.version="0.0.1" // 对应版本号 25.1.0
-        pom.artifactId="routeparam-annotation" // 对应 appcompat-v7
+        pom.artifactId="annomationlib" // 对应 appcompat-v7
         pom.groupId="com.ebest.annotation" // com.android.support
     }
 }
