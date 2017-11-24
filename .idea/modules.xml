@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ComAssemblys.iml" filepath="$PROJECT_DIR$/.idea/modules/ComAssemblys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GradleSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/GradleSrc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/annomationcompilelib/annomationcompilelib.iml" filepath="$PROJECT_DIR$/.idea/modules/annomationcompilelib/annomationcompilelib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/annomationlib/annomationlib.iml" filepath="$PROJECT_DIR$/.idea/modules/annomationlib/annomationlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-src/gradle-src.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-src/gradle-src.iml" />

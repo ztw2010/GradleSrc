@@ -68,7 +68,7 @@ public class Compiler extends AbstractProcessor{
 //                    throw new RouterException("The class you are annotated by RouteConfig must be a Application",type);
 //                }
                 if (!Utils.isSuperClass(type,Constants.CLASSNAME_MODULEROUTECONFIG)) {
-                    throw new RouterException("The class you are annotated by RouteConfig must be a ModuleRouteConfig",type);
+                    throw new RouterException("The class you are annotated by RouteConfig must be a IApplicationLike",type);
                 }
                 RouteConfig config = type.getAnnotation(RouteConfig.class);
                 configurations = new BasicConfigurations(config);

@@ -5,7 +5,7 @@ public class Constants {
     // Application
     public static final String CLASSNAME_APPLICATION = "android.app.Application";
 
-    public static final String CLASSNAME_MODULEROUTECONFIG = "com.ebest.frame.annomationapilib.route.ModuleRouteConfig";
+    public static final String CLASSNAME_MODULEROUTECONFIG = "com.ebest.frame.commnetservicve.applike.IApplicationLike";
 
     // Activity
     public static final String CLASSNAME_ACTIVITY = "android.app.Activity";
